@@ -20,6 +20,9 @@ npm-debug.log
 # dist
 /dist
 
+# docker
+/data
+
 # database
 prisma/dev.db
 
